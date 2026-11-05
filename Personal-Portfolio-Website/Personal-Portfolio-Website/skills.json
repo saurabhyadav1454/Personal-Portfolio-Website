@@ -1,0 +1,75 @@
+[
+  {
+    "name": "C++",
+    "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAFS0lEQVR4AbWVA5hcSxCF+9lWbNu2bdt2soht27b9zGRt27at887tCe/Mere+7x92V53SjAAgmXHKoTB8SLaRMBJBdpFPC+MDgKQoAiYQPwIVQWRKaQpoRn4nyIe/SauSFPAtOUBQSI6Q74srYAGJISgicWRJUQR0IxZqhzNPO2DqCXsM32+N/jst0WeHhaQfX/Mz+R3P6BJiQ3oVREAFckntYNZpR0w7aY++Oy0wdJ81DK654sSf/rhlFiJRXhtcd8UwfteXgihE3tEh5Nr0kw5V5p511imgA0lRX5pzxhGjDtqgH4PvfOQNB/8E5GaOgQnY/cRHVmfkARvefS1iOhOYzfd617zSZp916qZLQJAquLzA0srM/nWJRkHtuVuMIoDVspI+ptPXiqueSnD03vofvpl8KUxLgK5+jz1si8F7rOAclIjCmkdoEobstWI7nLDyli/GHbZClbm3IPofghh0JEuXgAS1iB5bzfGPcxSKanFpwIiDdmi2/DHE0GMMfhBi9GmIsWcT8hIgsx+42xLrbntAl2Vl5+CRdTj2PfWRPLQKQ0ZWDtR239gLX40+A9FjH8SIE0pgiDFnFPIWwEmV02zrGw+1hcamyQnvvMlMriDP8bWpnPyEVI2I5y6haL/iLkSbnRADDkOMexGYYgoiQPZ+3jknZKqyymTmiy86o9sWMyli5ovpXnDeBROOuUDvqitmHf8PojdL3XEPRJd9FHAUYtJ5Zs/Anfey/2zFhHN5CxjEwdv+0Asqk5vQlcHZIhl41hknGNzwweJLbui64U86Pw7RjlkPOwnRaifFmqGBHivRcrsMbnjNAt/PvALRaW/eAvjLJn9c1Hb8D3/02mYuzyy/7gO9m74Ua4rvZ1yH6HtADposc78j2HDZHIpFJqSi7cIb0L9sBsU8Q+PRYO61ogk4+rsfBu+zw6p7wZhwyBLVxzPjDms53Qw+8RJ7zVKPPEUBh7H9hhUUi01OR/slt7D6uiUU849MRKP5N/JpATdgB3/11GbkHocuHLgWS2+zx6shmi1jOddAdN/Ash+kkCMstTLxbEHrndC/aoGmhvc1LeA8rL9tjTJzrsoW5DuE8zmEytCprdxYTvVno+lwHUSvLRA9N/N5E0SlmSg35gAmH3/GITysBIHoth9i4FFW57xm+rvuy3sI1WvoFpYGtZk4+eGH7gxYZiZEjYUayszAt53Xw94zGIr9ZR+E1kqV2u1mNU6/sYan811D+a83j2s16bQnDG+6QpfFpWdi25m/0H/pBfQjW07/iejUDKjt9nMvfDDkOOfi7Js/QroFcK0SlPUyuOWPJde80VHvAbNbjP0PzFFUM3ELwHuNlnMo2Y7xbMOEi7kLWMagBncCMGznM/w0jL1rvhSiwRKIRivwt4M/CmvGbkEQTfQ4qKQbN6X3NrbjmEbE+Avaf0YTj1iF1J15AaIVL7RcAdGDfe67FULJoJk+Lv9qi4LajT8c6MOQCSyTPqSvrus09OdcjDoVoSVAdNvQRbRYniG6rpeTzUsa+tBBc32ImgsxSO8yntn4IDd7buuLYQZcs1qLIJrqvQ7+ku4buT1rlec+2gI6rxOi56ZqPHiD4C16b6F67nr1BbKs9SYfwaQd97Hq3N9YTSbteID6U44yqL7mTJf18g7vqrlDalGA0BLAL96kH3HQctBrs3TOtmjWr+p8DXwtP+Mq8oyuwE5k0JsxdAvQZgWJIygiScRQ7bcQAiQ/khNFCH6GlCGiqALUtCHPChDYiHTQvl90AWqmkRACFRFklvp8KQiQfE72yKAaDpCviSisgP8BD5bkVf9PGgoAAAAASUVORK5CYII="
+  },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+      },
+      {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+      },
+      {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+      },
+      {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+      },
+      {
+        "name": "TailwindCSS",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAPFBMVEX////G6fxsyvk/v/g4vfhhyPmz4vuK1PoAtfckufgvu/hTxPn6/f+h2/tGwPjS7v255fxMwviT1/qn3vsZjXhWAAAAbElEQVR4AeWOCQqAMAwEq11r06b3//9qAwiI0QfowHINC2N+yLJabE53uycgUGTtF11CmDqLLVdZ57iJhSt9V+4cCQB5a1RGJgr9FrrW866GbmpoGylISlNC3RxnsbY+hLbX0GSJIKE6zOajHN4ZA8/fNs9XAAAAAElFTkSuQmCC"
+      },
+      {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+      },
+      {
+        "name": "ReactJS",
+        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+      },
+      {
+        "name": "NodeJS",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+      },
+      {
+        "name": "ExpressJS",
+        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+      },
+      {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+      },
+      {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+      },
+  {
+    "name": "Bootstrap",
+    "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+  },
+  {
+    "name": "Git VCS",
+    "icon": "https://img.icons8.com/color/48/000000/git.png"
+  },
+  {
+    "name": "GitHub",
+    "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+  },
+  {
+    "name": "WordPress",
+    "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+  },
+  {
+    "name": "Netlify",
+    "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png"
+},
+{
+    "name": "Vercel",
+    "icon":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAM1BMVEVHcEwAAAAAAAAAAAAAAAAAAAAAAAAAAABYWFiqqqrl5eX///8tLS1/f3/Hx8f4+PiMjIzf+mfPAAAACHRSTlMAT5TK6f8Wp2EzSt0AAACwSURBVHgBhdNRDoQgDATQAh1Qq+r9T7sb3bWjkvT9YlJGpkJSLgpoyUk6agNpVR4yHrKwqnjRSufoqsG5f6EgTLv3Y/k9YBhfQxrYZDNIExGwxWwFE0lgm5kNIEkyyGhfE0iWAjfbYYEronCrHTY4FY5oPxxVbhH/KKooRbysNKJQRDf4JbNHJJPHTBSR7NePEpz29Q4neqyu1usTq3FhosoFpQ1rHy9OvHrx8obr/wFluxNblyUG8AAAAABJRU5ErkJggg=="
+}
+
+]
